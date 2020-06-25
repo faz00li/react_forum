@@ -1,0 +1,14 @@
+.post-body {
+  margin: 1em 20%;
+}
+
+.post-like-button {
+  float: right;
+  margin-top: 1em;
+}
+
+@media(max-width: 900px) {
+  .post-body {
+    margin: 1em;
+  }
+}
